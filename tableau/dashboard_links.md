@@ -1,12 +1,15 @@
 # Tableau Dashboard Access
 
-As the Tableau dashboard has not been published to Tableau Public, the complete interactive workbook is provided as a Packaged Tableau Workbook (.twbx) file.
+The complete interactive dashboard has been published to Tableau Public and can be accessed directly online.
 
-## 📊 Dashboard File
-The interactive dashboard can be accessed here:
+## 📊 Live Dashboard
+👉 **[View Hopper Horizon Retail Sales Dashboard on Tableau Public](https://public.tableau.com/views/Hopper_Horizon_RetailSale/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+## 📁 Local Dashboard File
+If you prefer to view the dashboard locally, it is also provided as a Packaged Tableau Workbook (.twbx) file:
 👉 **[Hopper_Horizon_RetailSales_final.twbx](../tableau/Hopper_Horizon_RetailSales_final.twbx)**
 
-## 🛠️ How to Open
+### 🛠️ How to Open Locally
 1. Download the `.twbx` file from the link above.
 2. Open the file using **Tableau Desktop** or the free **Tableau Reader**.
 3. You will be able to interact with all filters, drill-downs, and visualizations exactly as designed.

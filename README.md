@@ -62,7 +62,7 @@ Through rigorous Exploratory Data Analysis (EDA) and Statistical Testing, we unc
 The final interactive dashboard provides an executive overview and operational drill-downs.
 
 ### Dashboard Preview
-![Dashboard Preview](tableau/screenshots/Dashboard.png)
+![Dashboard Preview](tableau/screenshots/Dashboard.jpeg)
 
 **Key Features:**
 *   **KPI Scorecard**: Real-time tracking of Total Sales, Profit, and Margin %.
@@ -70,7 +70,7 @@ The final interactive dashboard provides an executive overview and operational d
 *   **Category Analysis**: Deep dive into furniture, technology, and office supplies.
 *   **Interactive Filters**: Slice data by Region, Segment, and Date range.
 
- **[View Live Tableau Dashboard](tableau/dashboard_links.md)**
+ **[View Live Tableau Dashboard](https://public.tableau.com/views/Hopper_Horizon_RetailSale/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
