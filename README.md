@@ -11,8 +11,8 @@
 | :--- | :--- |
 | **Project Title** | Hopper Horizon: Retail Sales Analytics |
 | **Sector** | Global Retail & E-commerce |
-| **Team ID** | DVA-T05 |
-| **Submission Date** | April 2026 |
+| **Team ID** | Horizon |
+| **Submission Date** | 28th April 2026 |
 | **Tech Stack** | Python (Pandas, Seaborn, Scikit-Learn), Tableau Public |
 
 ### Team Members
